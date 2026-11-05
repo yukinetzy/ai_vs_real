@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+ 
+# Datasets stay on Google Drive, not in the repo
+archive.zip
+*.zip
+ai_vs_real/
+ai_vs_real_clean/
+ai_vs_real_own_test/
+ai_vs_real_A2_results/
+ai_raw_sdxl/
+data/
+dataset/
+ 
+# Gradio temporary files
+flagged/
+.gradio/
+ 
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+ 
